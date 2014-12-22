@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Meditations and disquisitions upon the one and fiftieth Psalme of Dauid Miserere mei Deus. By Sr. Ri
+
+1. TO THE RIGHT HONORABLE EDVVARD, Earle of DORSET, of His Majesties most Honorable Privie Counsell; Lord Chamberlaine to the Queene; and Knight of the most Noble Order of the GARTER.
+Perlegi librum hunc cui Titulum est (Meditations upon the 51. Psalme) eumque tipis mandari permitto.
 #####Body#####
-Meditations and disquisitions upon the one and fiftieth Psalme of Dauid Miserere mei Deus. By Sr. Ri
+
+1. MEDITATIONS AND DISQVISITIONS upon the 51. Psalme of DAVID.
+
 **Types of content**
 
   * There are 2 **verse** lines!
